@@ -1,0 +1,26 @@
+# Threadlevel provided:        3 out of        0        1        2        3,,,,,,,,,,,
+  spat_dim , proc_dim, PBC ? ,,,,,,,,,
+           1 -Dim Input         1200           0 T,,,,,,,,,,,
+           2 -Dim Input         1200           0 T,,,,,,,,,,,
+           3 -Dim Input         1200           0 T,,,,,,,,,,,
+#   0 Process grid   1   1   1,,,,,,,,,,,
+           0           3           2,,,,,,,,,,,
+#   0  Allocated 2 arrays with a total of  27786.5      Mbytes ,,,,,,,,,,,
+# StartResidual    0.00000000000    ,,,,,,,,,,,
+  4  Maxtime , Mintime + JacobiMi ,,JacobiMa,15.33051509,15.33051509,15.0588661,15.0588661,Residual,12019999.99,MLUPs,112.7163693
+  4  Maxtime , Mintime + JacobiMi ,,JacobiMa,15.32682368,15.32682368,15.06360026,15.06360026,Residual,2000000,MLUPs,112.7435166
+  4  Maxtime , Mintime + JacobiMi ,,JacobiMa,15.3213141,15.3213141,15.05768518,15.05768518,Residual,425925.9258,MLUPs,112.7840594
+  4  Maxtime , Mintime + JacobiMi ,,JacobiMa,15.3270416,15.3270416,15.06373849,15.06373849,Residual,126543.2098,MLUPs,112.7419136
+  4  Maxtime , Mintime + JacobiMi ,,JacobiMa,15.31687106,15.31687106,15.05339451,15.05339451,Residual,51826.13169,MLUPs,112.8167753
+  4  Maxtime , Mintime + JacobiMi ,,JacobiMa,15.32911919,15.32911919,15.06573999,15.06573999,Residual,26702.1351,MLUPs,112.7266335
+  4  Maxtime , Mintime + JacobiMi ,,JacobiMa,15.32088022,15.32088022,15.05738782,15.05738782,Residual,15893.99889,MLUPs,112.7872534
+  4  Maxtime , Mintime + JacobiMi ,,JacobiMa,15.32785255,15.32785255,15.06456376,15.06456376,Residual,10378.24299,MLUPs,112.7359488
+  4  Maxtime , Mintime + JacobiMi ,,JacobiMa,15.32029233,15.32029233,15.05681517,15.05681517,Residual,7222.263299,MLUPs,112.7915815
+  4  Maxtime , Mintime + JacobiMi ,,JacobiMa,15.32652151,15.32652151,15.06334316,15.06334316,Residual,5266.189871,MLUPs,112.7457394
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,15.06051344,,,,,
+,,,,,,,,,,,
+,,,,,,15.06051344,,,,,
