@@ -1,3 +1,2 @@
-# HPC
-read me333dd
-ff
+## Parallel programming. MPI and OpenMP
+
