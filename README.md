@@ -1,2 +1,2 @@
-## Parallel programming. OpenMP and MPI  
+## Parallel programming, OpenMP and MPI  
 
